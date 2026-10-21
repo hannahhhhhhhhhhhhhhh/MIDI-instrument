@@ -1,5 +1,8 @@
-﻿Designator,Footprint,Quantity,Value,LCSC Part #
-"D1, D2, D3, D4, D5, D6, D7, D8",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,8,SK6812MINI-E,
-J1,padd,1,Conn_01x07,
-"SW2, SW3, SW4",Kailh Choc Low-Profile Switches,3,SW_Push,
-U1,XIAO ESP32-S3,1,XIAO-ESP32-S3,
+Component,Quantity,Unit Price (CAD),Total Price (CAD),Product Link
+XIAO ESP32-S3,1,,,
+SK6812MINI-E RGB LED,8,,,
+SW_Push Button (SW2 SW3 SW4),3,,,
+Key Switch (t1-t7),7,,,
+Conn_01x07 7-pin Header (J1),1,,,
+PCB Fabrication JLCPCB 5 boards,1,,,
+,,,Total:,
