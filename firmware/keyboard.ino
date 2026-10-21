@@ -1,7 +1,6 @@
 #include <USB.h>
 #include <USBMIDI.h>
 #include <FastLED.h>
-
 USBMIDI MIDIusb;
 
 #define TOUCH_T1        1
@@ -25,15 +24,11 @@ USBMIDI MIDIusb;
 enum Mode { NORMAL, NOTE_LENGTH, CHORD, ARP, SCALE_SELECT };
 enum ScaleType { CHROMATIC, MAJOR, MINOR, PENTATONIC };
 
-const int SCALES[][8] = {
-  {0, 1,  2,  3,  4, 5,  6,  7},
-  {0, 2,  4,  5,  7, 9,  11, 12},
-  {0, 2,  3,  5,  7, 8,  10, 12},
+const int SCALES[][8] = {  {0, 1,  2,  3,  4, 5,  6,  7}, {0, 2,  4,  5,  7, 9,  11, 12},  {0, 2,  3,  5,  7, 8,  10, 12},
   {0, 2,  4,  7,  9, 0,  0,  0},
 };
 
 CRGB leds[NUM_LEDS];
-
 int           baseNote          = 60;
 int           semitone          = 0;
 int           noteLengthVal     = 64;
