@@ -1,5 +1,5 @@
 Component,Quantity,Unit Price (CAD),Total Price (CAD),Product Link
-XIAO ESP32-S3,1,,,
+XIAO ESP32-S3,1,,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html,
 SK6812MINI-E RGB LED,8,,,
 SW_Push Button (SW2 SW3 SW4),3,,,
 Key Switch (t1-t7),7,,,
