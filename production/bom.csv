@@ -1,8 +1,7 @@
-Component,Quantity,Unit Price (CAD),Total Price (CAD),Product Link
-XIAO ESP32-S3,1,,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html,
-SK6812MINI-E RGB LED,8,,,
-SW_Push Button (SW2 SW3 SW4),3,,,
-Key Switch (t1-t7),7,,,
-Conn_01x07 7-pin Header (J1),1,,,
-PCB Fabrication JLCPCB 5 boards,1,,,
+Component,Quantity,Unit Price (USD),Total Price (USD),Product Link
+XIAO ESP32-S3,1,7.49,7.49,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html
+SK6812MINI-E RGB LED,8,6.99(25 pack),6.99,https://keeb.io/products/sk-6812-mini-e-rgb-leds-12-pack?srsltid=AYCX9vLygB0Pt4CU2eWgwPskLf_wV1t283CdXUvQ6w1hUP6p_D-RdnbI
+SW_Push Button (SW2 SW3 SW4),3,12.99(35 pack),12.99,https://www.canadacomputers.com/en/keyboard-switches/285141/yunzii-milk-v2-linear-switch-35-pieces-per-pack-milk-v2.html
+Conn_01x07 7-pin Header (J1),1,0.64,0.64,https://ca.robotshop.com/products/7-pin-male-header-seeed-studio-xiao-series-board-5x?variant=43427448029335
+PCB Fabrication JLCPCB 5 boards,1,9.40,9.40,https://jlcpcb.com/
 ,,,Total:,
