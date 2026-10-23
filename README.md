@@ -52,7 +52,6 @@ The two rows of LEDs on the right side of the board serve as a stats display, sh
 4. The controller is ready to use
 
 ## Bill of Materials
-## Bill of Materials
 
 | Item | Qty | Supplier | Cost/Item (CAD) | Total Cost (CAD) |
 |------|-----|----------|-----------------|------------------|
