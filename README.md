@@ -52,5 +52,14 @@ The two rows of LEDs on the right side of the board serve as a stats display, sh
 4. The controller is ready to use
 
 ## Bill of Materials
-See `BOM.csv` !
+## Bill of Materials
+
+| Item | Qty | Supplier | Cost/Item (CAD) | Total Cost (CAD) |
+|------|-----|----------|-----------------|------------------|
+| XIAO ESP32-S3 | 1 | Seeed Studio | $7.49 | $7.49 |
+| SW_Push Button | 1 | YUNZII | $12.99 | $12.99 |
+| Conn_01x07 7-pin Header | 1 | Seeed Studio | $0.64 | $0.64 |
+| PCB Fabrication (JLCPCB) | 1 | JLCPCB | $9.40 | $9.40 |
+| Estimated Shipping | 1 | — | — | $2.00 |
+| | | | **Total** | **$32.52** |
 
